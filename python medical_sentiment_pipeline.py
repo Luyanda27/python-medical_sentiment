@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 """
 Advanced Medical Aid Sentiment Analysis Pipeline
-Author: Corey 
+Author: Luyanda 
 Date: 2025-06-30
 """
 
